@@ -1,0 +1,25 @@
+List out the features of HTML5?
+
+Solution:-
+i) Audio and Video Support:
+- It is used to embed Audio and Video into our HTML document that displays in our web browser.
+- We use <audio> tag to add any audio clip in our HTML document & displayed in our web browser.
+- By using <video> tag we will add any video clip in our HTML document & displayed in our web browser.
+
+ii) Canvas Element:
+- It helps to easily draw interactive graphics and animations in our web browser.
+
+iii) Geolocation API:
+- It is used to access the geographical position of aa user.
+- These will help our with using Apps like taxi apps, food order tracking and many more.
+
+iv) Local Storage:
+- It introduced local storage API.
+- It typically stores data in the users browser.
+
+v) New Structural Elements
+- It introduced new semantic elements such as <header>, <footer>, nav> that makes easier to structure and organize content on a web page.
+
+vi) Form Enhancement:
+- It is used to create more robust user experiences.
+- Some key enhancements are:- email, URL, placeholder, validation, id, required validation and so on.

@@ -1,0 +1,16 @@
+List any 3 ways which help us in improving the accessibility of HTML.
+
+Solution:-
+i) Properly Use HTML markup:
+- It is important to place in an order that makes sense.
+- If HTML of a page is messy or headers aren't used properly, users accessing a website with a screen reader will have difficulties navigating.
+- The H1 elements should be used for main ideas on a page with subsequent heading(H2, H3 etc) to understand the page and relationship between the elements on it.
+
+ii) Assign alt tags for images:
+- Images on a web page provide great value to users.
+- Assigning alt tags to images will provide a description of the images allowing users to understand the image through the use of a screen reader.
+
+iii) Use colors carefully:
+- It helps our users to easily distingush diffenent sets of information.
+- The color blindness and other disabilities can make it difficult for users to find information.
+- Colors play an important role in web design.

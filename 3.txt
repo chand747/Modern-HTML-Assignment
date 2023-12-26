@@ -1,0 +1,40 @@
+Define the accessibility in the context of web development. Discuss why it's essential to create accessible websites and how it benefits different user groups.
+
+Solution:-
+Web accessibility means that websites, tools and technologies are designed and developed to ensure people with disabilities can perceive, understand, navigate and interact with web.
+
+ESSENTIAL TO CREATE ACCESSIBLE WEBSITES:-
+i) Inclusivity:
+- It ensure that everyone can use it including disabled person and can access any time any where.
+
+ii) Legal Compliance:
+- Many countries have laws for legal requirements regarding web accessibility.So, we can raise our awareness , do the right things and lower your risk of legal action.
+
+iii) Build Positive Public Relations:
+- Building an accessable website can also help to improved user experience for everyone.
+
+iv) Better SEO(Search Engine Optimization):
+- SEO is like blind user because they can't see the content of our image.
+
+v) Business Growth:
+- It improves the usability for all users.
+- It also increase the overall people that can visite our websites.
+
+BENEFITS FOR DIFFERENT USERS:-
+i) Increased website traffic:
+- By visiting our websites to everyone, their traffic rates naturally increases with time.
+- By increasing traffic it comes better user engagement and improved SEO ranking to possible higher conversion rates.
+
+ii) Reduced risk of legal complications:
+- With high and more challenging legal requirements regarding web accessibility for optimizing our website for people with disabilities make good business sense.
+
+iii) More customer:
+- Accessible websites ensure us to reach more social groups, growing our customer base for long term.
+- It leads more customers, improved revenue sales and enhanced web brand visibility.
+
+iv) Helps to develop an innovative business mindset:
+- As to optimize our web design for accessibility, we must stay creative and innovative to keep up and adapt our web design to the constantly changing trends.
+
+v) Reduce page loading items:
+- No one has the patience to wait for opening a page.So, there is high chance of our visitors to leave our web page that take to much time to load.
+- So, we must improve our page loading time to provide our visitors with fast web experience.
